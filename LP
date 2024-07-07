@@ -14,6 +14,7 @@
   <meta property="og:site_name" content="Hit88" />
   <meta property="og:title"
     content="Hit88 : Link Slot Gampang JP Dijamin Gacor Maxwin" />
+    <meta name="google-site-verification" content="EF8heGGEzxa8MGgLwR2TTW8j_33E7k3iYz5IS7jXmNg" />
   <meta property="og:url" content="https://lpkm.stai-imsya.ac.id/vendor/hit88/" />
   <meta property="og:type" content="product" />
   <meta property="og:description"
