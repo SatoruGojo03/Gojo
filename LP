@@ -33,10 +33,8 @@
 <title>HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia</title>
 <meta name="title" content="HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia">
 <meta name="description" content="HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.">
-<meta name="keywords" content="HIT88, online gaming, terbaik, Indonesia, game online, kemenangan besar, game terbaik, main game, game populer">
 <meta name="author" content="HIT88">
 <meta name="robots" content="index, follow">
-<meta name="google-site-verification" content="6OgXchn1gg5keJCsL_IAZOcQVUbo-e0QEAD0o1Lrs48" />
 <meta name="geo.region" content="ID">
 <meta name="geo.placename" content="Indonesia">
 <meta name="geo.position" content="-0.789275;113.921327">
