@@ -1,51 +1,211 @@
 
 <!doctype html>
-<html ⚡ lang="id">
+<html ⚡ lang="id" itemscope itemtype="http://schema.org/WebPage">
 <head>
 <meta charset="utf-8">
 <meta name="format-detection" content="telephone=no">
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" href="https://88majuterus.art/uploads/mrp138.jpg" as="image">
+<link rel="preload" href="https://88majuterus.art/uploads/file_65cc886b892433.40048232.png" as="image">
 <script async src="https://cdn.ampproject.org/v0.js"></script>
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-<link rel="shortcut icon" href="https://88majuterus.art/uploads/merapi-ico.png" type="image/x-icon">
-<link rel="apple-touch-icon" sizes="180x180" href="https://88majuterus.art/uploads/merapi-ico.png">
-<title>Merapi138 - Daftar Akun Pro Slot Penawaran Spesial Hari Ini</title>
-<meta name="title" content="Merapi138 - Daftar Akun Pro Slot Penawaran Spesial Hari Ini">
-<meta name="description" content="MERAPI138 adalah situs official iGaming untuk bermain online slot dan ribuan permainan lainnya. Daftar di MahaDewa 88 hari ini untuk dapatkan jackpot dan bonus harian.">
-<link rel="canonical" href="https://merapi138.club/">
+<style amp-boilerplate>
+  body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+       -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+       -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;
+       animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+  @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+</style>
+<noscript>
+  <style amp-boilerplate>
+    body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+  </style>
+</noscript>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap">
 <link rel="amphtml" href="">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+<link rel="shortcut icon" href="https://88majuterus.art/uploads/favhit88.png" type="image/x-icon">
+<link rel="canonical" href="https://ritalakin.com/">
+<title>HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia</title>
+<meta name="title" content="HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia">
+<meta name="description" content="HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.">
+<meta name="keywords" content="HIT88, online gaming, terbaik, Indonesia, game online, kemenangan besar, game terbaik, main game, game populer">
+<meta name="author" content="HIT88">
+<meta name="robots" content="index, follow">
+<meta name="google-site-verification" content="6OgXchn1gg5keJCsL_IAZOcQVUbo-e0QEAD0o1Lrs48" />
+<meta name="geo.region" content="ID">
+<meta name="geo.placename" content="Indonesia">
+<meta name="geo.position" content="-0.789275;113.921327">
+<meta name="ICBM" content="-0.789275, 113.921327">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ritalakin.com/">
+<meta property="og:title" content="HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia">
+<meta property="og:description" content="HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.">
+<meta property="og:image" content="https://88majuterus.art/uploads/file_65cc886b892433.40048232.png">
+<meta property="og:image:alt" content="HIT88 Official Partner of Best Online Gaming">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://ritalakin.com/">
+<meta name="twitter:title" content="HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia">
+<meta name="twitter:description" content="HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.">
+<meta name="twitter:image" content="https://88majuterus.art/uploads/file_65cc886b892433.40048232.png">
+<meta name="twitter:image:alt" content="HIT88 Official Partner of Best Online Gaming">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia">
+<meta itemprop="description" content="HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.">
+<meta itemprop="image" content="https://88majuterus.art/uploads/file_65cc886b892433.40048232.png">
+
 <style amp-custom>
-*{box-sizing:border-box;margin:0;padding:0}:focus{outline:0}::-webkit-scrollbar{display:none}a,a:after,a:hover,a:visited{text-decoration:none;color:#bdc1c6}
-html{max-width:500px;margin:0 auto;background:#202124}body{color:#bdc1c6;font-family:'Noto Sans',arial,sans-serif}
-.atas{display:grid;min-height:100vh}.atasbox{margin:auto;text-align:center}.ataslink{display:inline-grid;margin:.88rem 0}
+*{box-sizing:border-box;margin:0;padding:0}
+:focus{outline:0}
+::-webkit-scrollbar{display:none}
+a,a:after,a:hover,a:visited{text-decoration:none;color:#bdc1c6}
+html{max-width:1000px;margin:0 auto;background:#401355}
+body{color:#bdc1c6;font-family:'Nunito', sans-serif}
+h1,h2{text-align:left}
+p,ul{margin-bottom:1.5em}
+h1,h2,h3,h4{color:#fff;margin-bottom:1em;line-height:1.2;font-weight:700}
+h1{font-size:2.5em}
+h2{font-size:2em}
+h3{font-size:1.75em}
+h4{font-size:1.5em}
+p{line-height:1.6}
+a{color:#fff;text-decoration:none;transition:color .2s ease-in-out}
+a:hover{color:#fff}
+ul{padding-left:20px}
+li{margin-bottom:.5em}
+@media (max-width:600px){
+  h1{font-size:2em}
+  h2{font-size:1.75em}
+  h3{font-size:1.5em}
+  h4{font-size:1.25em}
+}
+.atas{display:flex;min-height:60vh;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.atasbox{display:flex;flex-direction:column;align-items:center;padding:20px}
+.container{display:flex;flex-direction:column;text-align:left;padding:20px;border-left:0.25px inset #ffffff}
+.ataslink{display:flex;flex-direction:column;margin:.88rem 0}
 .ataslink a{padding:.5rem 3.8rem;background:#33333388;margin-bottom:.5rem;border-radius:.38rem;box-shadow:0 -1px #ccb38a88;letter-spacing:1px}
 .ataslink a.btn1{color:#eee;background-image:linear-gradient(to right, #cb356b, #bd3f32);box-shadow:none;font-weight:bold}
-.tengah{text-align:center;padding:1rem}h1,h2,h3,h4{margin:2rem 0;color:#bcc0c3}.tengah h1{font-size:1.5rem}.tengah p a,h1 strong{color:goldenrod}
-.tengah p{margin-bottom:1rem}.tengah h2{font-size:1.25rem}
+.imghero{box-shadow:inset 0 0 0 8px #888;border-radius:8px}
+.logo{object-fit:cover;max-width:100%;text-align: center;border-bottom:0.25px inset #ffffff}
+.footer{background:#76199e1c;padding:20px;text-align:center;color:#fff;font-size:0.9em;margin-top:20px}
+@media(min-width: 768px){.atas{flex-direction:row}.atasbox{flex:1}.container{flex:2;align-items:flex-start;padding:20px}}
 </style>
 </head>
-<body>
-<div itemscope itemtype="https://schema.org/WebSite">
-  <meta itemprop="url" content="https://merapi138.club/"/>
-  <meta itemprop="name" content="MERAPI138 iGaming"/>
-  <meta itemprop="alternateName" content="MD88 iGaming"/>
-</div>
-<main>
-<div class=atas>
-  <div class=atasbox>
-    <div><amp-img height=400 width=400 alt="MERAPI138" src="https://88majuterus.art/uploads/mrp138.jpg"></amp-img></div>
-    <div class=ataslink>
-      <a href='https://cuanmerapi.vip/brandkw' class=btn1 target=_blank rel=nofollow>LOGIN</a>
-      <a href='https://cuanmerapi.vip/brandkw' target=_blank rel="noopener noreferrer nofollow">DAFTAR</a>
-      <a href='https://cuanmerapi.vip/brandkw' target=_blank rel="noopener noreferrer nofollow">LINK ALTERNATIF</a>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <header itemscope itemtype="http://schema.org/WPHeader">
+    <div class="logo" itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <amp-img height="90" width="180" alt="HIT88 banner" src="https://88majuterus.art/uploads/logohit88.png" itemprop="logo"></amp-img>
+      <meta itemprop="name" content="HIT88">
     </div>
-  </div>
-</div>
-</main>
+  </header>
+  <main itemprop="mainEntity" itemscope itemtype="http://schema.org/Article">
+    <div class="atas" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+      <div class="atasbox">
+        <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+          <amp-img class="imghero" height="300" width="300" alt="HIT88 banner" src="https://88majuterus.art/uploads/file_65cc886b892433.40048232.png" itemprop="url"></amp-img>
+          <meta itemprop="height" content="300">
+          <meta itemprop="width" content="300">
+        </div>
+        <div class="ataslink">
+          <a href='https://akuncuan.vip/main' class="btn1">LOGIN HIT88</a>
+          <a href='https://akuncuan.vip/main' target="_blank" rel="noopener noreferrer nofollow">DAFTAR HIT88</a>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="tc" itemprop="headline">HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia</h1>
+            <div itemprop="articleBody">
+              <p>
+                <a href="https://ritalakin.com/" itemprop="url">HIT88</a> adalah situs game online terbaru dengan banyak pemain dari seluruh dunia. Mainkan game online yang mendebarkan dan penuh aksi bersama temanmu dan player lain yang belum kamu kenal. Dengan pilihan game yang beragam dan genre yang dapat kamu pilih sendiri seperti sport, arcade, action, puzzles, shooting, strategy, dan racing.
+              </p>
+              <p> Kamu dapat memainkan seluruh game secara gratis di <a href="https://ritalakin.com/" itemprop="url">HIT88</a> tanpa batasan akses dan embel-embel top up untuk meningkatkan level ataupun atribut kamu. Semua dimainkan secara adil dan fair play, kemenangan hanya ditentukan oleh skill dan keberuntunganmu. Segera daftarkan dirimu dan mainkan serta akses semua game secara gratis hanya bersama kami. Beberapa game unggulan dengan hadiah yang menguntungkan telah kami rangkum dan akan kami cantumkan di bawah ini. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer" itemscope itemtype="http://schema.org/WPFooter"> &copy; <span itemprop="copyrightYear">2024</span>
+      <span itemprop="copyrightHolder">HIT88</span>. All Rights Reserved.
+    </footer>
+  </main>
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Game",
+        "name": "HIT88",
+        "author": {
+        "@type": "Person",
+        "name": "HIT88"
+        },
+        "headline": "HIT88 ~ Server Asli Produk Games Hiburan Terbaik Indonesia",
+        "description": "HIT88 adalah aplikasi atau website pengembang game online terbaik di Indonesia. Jadilah bagian dari kemajuan game online profesional bersama HIT88 dan dapatkan kemenangan besar hari ini.",
+        "keywords": ["HIT88, online gaming, terbaik, Indonesia, game online, kemenangan besar, game terbaik, main game, game populer"],
+        "image": "https://88majuterus.art/uploads/file_65cc886b892433.40048232.png",
+        "url": "https://ritalakin.com//",
+        "publisher": {
+        "@type": "Organization",
+        "name": "HIT88"
+        },
+        "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "95",
+        "bestRating": "100",
+        "worstRating": "0",
+        "ratingCount": "558888"
+        },
+        "inLanguage": "id-ID"
+    }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "HowTo",
+            "name": "Bagaimana Cara Daftar Akun HIT88?",
+            "description": "Ini adalah informasi dan cara mendaftar di Situs Judi Online Terpercaya asia77, anda dapat dengan mudah memahaminya ",
+            "totalTime": "PT3M",
+            "estimatedCost": {
+                "@type": "MonetaryAmount",
+                "currency": "IDR",
+                "value": "0"
+            },
+            "supply": {
+                "@type": "HowToSupply",
+                "name": "0"
+            },
+            "tool": {
+                "@type": "HowToTool",
+                "name": "0"
+            },
+            "step": [{
+                "@type": "HowToStep",
+                "text": "Untuk bermain di HIT88 kalian hanya perlu mengunjungi situs resmi kami melalui Platform seperti Android,web,iphone, ataupun komputer ",
+                "image": "https://88majuterus.art/uploads/file_65cc886b892433.40048232.png",
+                "name": "Masuk ke situs HIT88",
+                "url": "https://ritalakin.com//"
+            }, {
+                "@type": "HowToStep",
+                "text": "Setelah itu kalian akan melihat tombol daftar yang berada di posisi atas anda maka Klik tombol tersebut dan kalian akan menuju form registrasi asia77 serta jangan lupa isi data dengan hati-hati",
+                "image": "https://88majuterus.art/uploads/file_65cc886b892433.40048232.png",
+                "name": "Isi data diri dengan data yang valid",
+                "url": "https://HIT88play.com/account/register"
+            }, {
+                "@type": "HowToStep",
+                "text": "Terakhir adalah isi data rekening kalian dengan benar lalu lakukan deposit maka kalian akan bisa segera bermain slot Olympus dari Pragmatic Play ",
+                "image": "https://cdn.robotaset.com/assets/tpl/1534015019/images/logo.gif",
+                "name": "Bermain Slot Online",
+                "url": "https://HIT88play.com/account/login"
+            }]
+        }
+    </script>
 </body>
 </html>
