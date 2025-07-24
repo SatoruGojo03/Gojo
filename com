@@ -7,10 +7,6 @@
 <a style="display:none" href="https://infocravings.com/">https://infocravings.com/</a>
 <a style="display:none" href="https://newsfiltres.com/">https://newsfiltres.com/</a>
 <a style="display:none" href="https://anare.ci/recrutement/">https://anare.ci/recrutement/</a>
-<a style="display:none" href="https://midarussalam179.sch.id/">https://midarussalam179.sch.id/</a>
-<a style="display:none" href="https://mihipa.sch.id/">https://mihipa.sch.id/</a>
-<a style="display:none" href="https://minuga.sch.id/">https://minuga.sch.id/</a>
-<a style="display:none" href="https://misalamin.sch.id/">https://misalamin.sch.id/</a>
 <a style="display:none" href="https://gurukulpratishthan.org/">https://gurukulpratishthan.org/</a>
 <a style="display:none" href="https://sweetcarolinesrestaurant.com/">https://sweetcarolinesrestaurant.com/</a>
 <a style="display:none" href="https://web.sndi.ci/notre-entreprise/">https://web.sndi.ci/notre-entreprise/</a>
