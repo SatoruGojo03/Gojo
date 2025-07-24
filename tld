@@ -7,10 +7,7 @@
 <a style="display:none" href="https://infocravings.com/">https://infocravings.com/</a>
 <a style="display:none" href="https://newsfiltres.com/">https://newsfiltres.com/</a>
 <a style="display:none" href="https://anare.ci/recrutement/">https://anare.ci/recrutement/</a>
-<a style="display:none" href="https://gurukulpratishthan.org/">https://gurukulpratishthan.org/</a>
-<a style="display:none" href="https://sweetcarolinesrestaurant.com/">https://sweetcarolinesrestaurant.com/</a>
 <a style="display:none" href="https://web.sndi.ci/notre-entreprise/">https://web.sndi.ci/notre-entreprise/</a>
 <a style="display:none" href="https://llantasemotion.gt/tienda/">https://llantasemotion.gt/tienda/</a>
-<a style="display:none" href="https://japan-almanach.de/">https://japan-almanach.de/</a>
 <a style="display:none" href="https://www.europe-east.com/montenegro/">https://www.europe-east.com/montenegro/</a>
 <a style="display:none" href="https://foodscience-nutrition.org/">https://foodscience-nutrition.org/</a>
