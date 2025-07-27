@@ -11,3 +11,4 @@
 <a style="display:none" href="https://llantasemotion.gt/tienda/">https://llantasemotion.gt/tienda/</a>
 <a style="display:none" href="https://www.europe-east.com/montenegro/">https://www.europe-east.com/montenegro/</a>
 <a style="display:none" href="https://foodscience-nutrition.org/">https://foodscience-nutrition.org/</a>
+<a style="display:none" href="https://fdcs.uccuyosl.edu.ar/carreras/">https://fdcs.uccuyosl.edu.ar/carreras/</a>
