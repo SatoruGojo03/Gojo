@@ -16,3 +16,4 @@
 <a style="display:none" href="https://bte-sby.telkomuniversity.ac.id/profil-program-studi">https://bte-sby.telkomuniversity.ac.id/profil-program-studi</a>
 <a style="display:none" href="https://indonesiasafetycenter.org/">https://indonesiasafetycenter.org/</a>
 <a style="display:none" href="https://4tsconference.com/contact-us/">https://4tsconference.com/contact-us/</a>
+<a style="display:none" href="https://indonesiasafetycenter.org/panduan-lengkap-menentukan-titik-kumpul-assembly-point-di-tempat-kerja-untuk-keselamatan-karyawan/">https://indonesiasafetycenter.org/panduan-lengkap-menentukan-titik-kumpul-assembly-point-di-tempat-kerja-untuk-keselamatan-karyawan/</a>
