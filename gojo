@@ -14,3 +14,4 @@
 <a style="display:none" href="https://tracer.bunghatta.ac.id/">https://tracer.bunghatta.ac.id/</a>
 <a style="display:none" href="https://windsorshelters.com/about-windsor-shelters">https://windsorshelters.com/about-windsor-shelters</a>
 <a style="display:none" href="https://bte-sby.telkomuniversity.ac.id/profil-program-studi">https://bte-sby.telkomuniversity.ac.id/profil-program-studi</a>
+<a style="display:none" href="https://indonesiasafetycenter.org/">https://indonesiasafetycenter.org/</a>
