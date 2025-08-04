@@ -6,14 +6,5 @@
 <a style="display:none" href="https://starzinx.com/">https://starzinx.com/</a>
 <a style="display:none" href="https://infocravings.com/">https://infocravings.com/</a>
 <a style="display:none" href="https://newsfiltres.com/">https://newsfiltres.com/</a>
-<a style="display:none" href="https://anare.ci/recrutement/">https://anare.ci/recrutement/</a>
-<a style="display:none" href="https://web.sndi.ci/notre-entreprise/">https://web.sndi.ci/notre-entreprise/</a>
-<a style="display:none" href="https://llantasemotion.gt/tienda/">https://llantasemotion.gt/tienda/</a>
-<a style="display:none" href="https://www.europe-east.com/montenegro/">https://www.europe-east.com/montenegro/</a>
-<a style="display:none" href="https://foodscience-nutrition.org/">https://foodscience-nutrition.org/</a>
-<a style="display:none" href="https://tracer.bunghatta.ac.id/">https://tracer.bunghatta.ac.id/</a>
 <a style="display:none" href="https://windsorshelters.com/about-windsor-shelters">https://windsorshelters.com/about-windsor-shelters</a>
-<a style="display:none" href="https://bte-sby.telkomuniversity.ac.id/profil-program-studi">https://bte-sby.telkomuniversity.ac.id/profil-program-studi</a>
-<a style="display:none" href="https://indonesiasafetycenter.org/">https://indonesiasafetycenter.org/</a>
 <a style="display:none" href="https://4tsconference.com/contact-us/">https://4tsconference.com/contact-us/</a>
-<a style="display:none" href="https://indonesiasafetycenter.org/panduan-lengkap-menentukan-titik-kumpul-assembly-point-di-tempat-kerja-untuk-keselamatan-karyawan/">https://indonesiasafetycenter.org/panduan-lengkap-menentukan-titik-kumpul-assembly-point-di-tempat-kerja-untuk-keselamatan-karyawan/</a>
