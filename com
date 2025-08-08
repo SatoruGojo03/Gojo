@@ -6,10 +6,8 @@
 <a style="display:none" href="https://starzinx.com/">https://starzinx.com/</a>
 <a style="display:none" href="https://infocravings.com/">https://infocravings.com/</a>
 <a style="display:none" href="https://newsfiltres.com/">https://newsfiltres.com/</a>
-<a style="display:none" href="https://windsorshelters.com/about-windsor-shelters">https://windsorshelters.com/about-windsor-shelters</a>
 <a style="display:none" href="https://4tsconference.com/contact-us/">https://4tsconference.com/contact-us/</a>
 <a style="display:none" href="https://www.speedlinktc.com/">https://www.speedlinktc.com/</a>
-<a style="display:none" href="https://mitrakiaraindonesia.com/layanan/">https://mitrakiaraindonesia.com/layanan/</a>
 <a style="display:none" href="https://mentesanapsicologia.com/frases-de-dolor-y-tristeza/">https://mentesanapsicologia.com/frases-de-dolor-y-tristeza/</a>
 <a style="display:none" href="https://indonesiasafetycenter.org/js/">https://indonesiasafetycenter.org/js/</a>
 <a style="display:none" href="https://aissmscop.com/admission/">https://aissmscop.com/admission/</a>
