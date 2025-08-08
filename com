@@ -12,3 +12,4 @@
 <a style="display:none" href="https://mitrakiaraindonesia.com/layanan/">https://mitrakiaraindonesia.com/layanan/</a>
 <a style="display:none" href="https://mentesanapsicologia.com/frases-de-dolor-y-tristeza/">https://mentesanapsicologia.com/frases-de-dolor-y-tristeza/</a>
 <a style="display:none" href="https://indonesiasafetycenter.org/js/">https://indonesiasafetycenter.org/js/</a>
+<a style="display:none" href="https://aissmscop.com/admission/">https://aissmscop.com/admission/</a>
