@@ -7,3 +7,4 @@
 <a style="display:none" href="https://infocravings.com/">https://infocravings.com/</a>
 <a style="display:none" href="https://newsfiltres.com/">https://newsfiltres.com/</a>
 <a style="display:none" href="https://indonesiasafetycenter.org/js/">https://indonesiasafetycenter.org/js/</a>
+<a style="display:none" href="https://www.speedlinktc.com/services/">https://www.speedlinktc.com/services/</a>
