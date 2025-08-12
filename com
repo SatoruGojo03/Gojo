@@ -10,3 +10,4 @@
 <a style="display:none" href="https://www.speedlinktc.com/services/">https://www.speedlinktc.com/services/</a>
 <a style="display:none" href="https://www.speedlinktc.com/de/">https://www.speedlinktc.com/de/</a>
 <a style="display:none" href="https://indonesiasafetycenter.org/education/">https://indonesiasafetycenter.org/education/</a>
+<a style="display:none" href="https://rcipublisher.org/">https://rcipublisher.org/</a>
