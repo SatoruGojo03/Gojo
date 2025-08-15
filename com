@@ -14,3 +14,4 @@
 <a style="display:none" href="https://ijohm.rcipublisher.org/">https://ijohm.rcipublisher.org/</a>
 <a style="display:none" href="https://www.speedlinktc.com/solutions/">https://www.speedlinktc.com/solutions/</a>
 <a style="display:none" href="https://ijocs.rcipublisher.org/">https://ijocs.rcipublisher.org/</a>
+<a style="display:none" href="https://infosewa.bpsdmd.jatengprov.go.id/cetak/">https://infosewa.bpsdmd.jatengprov.go.id/cetak/</a>
